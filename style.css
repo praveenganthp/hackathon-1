@@ -25,6 +25,14 @@ a {
   padding: 3rem 0;
 }
 
+.sub{
+    text-align: center;
+    background-color: #f10abf;
+  color: rgb(37, 37, 37);
+  font-family: 'Abril Fatface', cursive;
+    padding: 2rem;
+}
+
 #loading {
   width: 2.5rem;
   height: 2.5rem;
